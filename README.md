@@ -4,8 +4,6 @@ I loaded the logs from my own AWS EC2 server into Splunk, searched them for susp
 
 **Author:** Varshini Murali, cybersecurity student at Murdoch University
 
-> Fill in every [bracket] with your own results. Only write what your logs really show. Delete this note when you're done.
-
 ## Problem
 
 A server on the internet is scanned and attacked all the time. I wanted to learn how a SOC analyst finds that activity in logs, so I used the logs from my own ICT171 cloud server and investigated them.
